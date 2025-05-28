@@ -1,0 +1,6 @@
+*
+!.gitignore
+!filament
+!filament/**
+!physical_printer/
+!physical_printer/**
